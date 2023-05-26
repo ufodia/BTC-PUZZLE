@@ -48,7 +48,7 @@ To assist with the main puzzle solver script, we offer an additional Python scri
 Use the following command to run the script:
 
 ```
-python part_builder.py
+python puzzlepart.py
 ```
 
 During the execution, the script will prompt you to provide:
