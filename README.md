@@ -72,7 +72,7 @@ If you find this project useful and wish to support it, consider making a donati
 
 **BTC**: `1JKdcuaw289Daf5eSCpuULTam5LnCxCgY3`
 
-**Lottery**: `https://Millionmac.com`
+**Lottery**: https://Millionmac.com
 
 ### Contact
 For any inquiries or comments, reach out to info@millionmac.com.
