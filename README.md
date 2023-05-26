@@ -1,4 +1,4 @@
-# BTC-PUZZLE V1: Bitcoin's puzzle Brute-Force Tool (CPU Version)
+# BTC-PUZZLE V1: `Bitcoin's puzzle Brute-Force Tool (CPU Version)`
 Puzzle Solver V1 is a robust, feature-packed Bitcoin private key brute-forcing tool designed to crack specific Bitcoin private keys. It enables users to delve into a specific range of private keys to locate a Bitcoin address of interest.
 
 ### Prerequisites
@@ -70,9 +70,9 @@ If hybrid mode is chosen, the number of keys to be scanned per cycle.
 ### Support and Contribution
 If you find this project useful and wish to support it, consider making a donation. Every contribution, regardless of size, isgreatly appreciated!
 
-**BTC**: 1JKdcuaw289Daf5eSCpuULTam5LnCxCgY3
+**BTC**: `1JKdcuaw289Daf5eSCpuULTam5LnCxCgY3`
 
-**Lottery**: https://Millionmac.com
+**Lottery**: `https://Millionmac.com`
 
 ### Contact
 For any inquiries or comments, reach out to info@millionmac.com.
