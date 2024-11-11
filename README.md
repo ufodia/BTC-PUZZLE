@@ -70,9 +70,8 @@ If hybrid mode is chosen, the number of keys to be scanned per cycle.
 ### Support and Contribution
 If you find this project useful and wish to support it, consider making a donation. Every contribution, regardless of size, isgreatly appreciated!
 
-**BTC**: `1DDus3a5DnugwXkWdVMSYcH1tZ2jMYXfi1`
-
-**Lottery**: https://Millionmac.com
+## Donate: 
+**BTC**: `1GZdNtQYa2DN4b3hLekrYErv9c8WLqbBTm`
 
 ### Contact
 For any inquiries or comments, reach out to info@millionmac.com.
