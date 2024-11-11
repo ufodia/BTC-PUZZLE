@@ -73,6 +73,5 @@ If you find this project useful and wish to support it, consider making a donati
 ## Donate: 
 **BTC**: `1GZdNtQYa2DN4b3hLekrYErv9c8WLqbBTm`
 
-### Contact
-For any inquiries or comments, reach out to info@millionmac.com.
+
   
